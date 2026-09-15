@@ -28,7 +28,7 @@ threading.Thread(target=run_dummy_server, daemon=True).start()
 # =================================================================================
 
 # ==================== PENGATURAN BOT ====================
-TOKEN = "8872474814:AAGaw5AqzdvxCeQRJ6t2QAk4JfYrGXSUtKI"
+TOKEN = "8872474814:AAExby0Bw7KFCR5KyTptAwhd62czO9dlx_8"
 ADMIN_ID = 8670588012
 MAX_DAILY_SEARCH = 100
 
